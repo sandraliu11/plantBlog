@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d22e25ff-9c0d-4607-9d93-325bed5315a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decorinspo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Indoor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/p2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/p2_1_20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/p2_40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plant1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plantees.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plants_25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plantcare.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorinspo.html" beforeDir="false" afterPath="$PROJECT_DIR$/decorinspo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Indoor.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/indoor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plantcare.html" beforeDir="false" afterPath="$PROJECT_DIR$/plantcare.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592358465219</updated>
-      <workItem from="1592358467831" duration="8979000" />
+      <workItem from="1592358467831" duration="9445000" />
     </task>
     <servers />
   </component>
